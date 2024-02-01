@@ -1,4 +1,4 @@
-In this project, there are three roles: guest, customer, and admin. In the guest pages, products are displayed but cannot be added to the cart. In the customer role, products can be added to the cart, and the profile page is accessible. The admin role allows for dropping, updating, and adding product information. Additionally, admins can view graphs of sales.
+In this project, there are two roles: guest and customer. The main agenda of this app is to create a small social media platform.
 git clone https://github.com/your-username/folder_name.git
 
 ## Step 1: Start the Metro Server
